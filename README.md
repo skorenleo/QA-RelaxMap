@@ -41,6 +41,8 @@ Test checklists cover selected application areas and user states:
 
 The checklists include functional, UI, navigation, and responsive testing across mobile, tablet, and desktop devices.
 
+[View Checklists](checklists/relaxmap-checklist.md)
+
 ### Bug Reports
 
 Detailed bug reports include:
@@ -53,6 +55,16 @@ Detailed bug reports include:
 - Actual result
 - Expected result
 - Attachments
+
+[View Bug Reports](bug-reports/relaxmap-bug-reports.md)
+
+### Full QA Documentation
+
+The original QA documentation is also available in Google Sheets:
+
+[View RelaxMap QA Documentation in Google Sheets](https://docs.google.com/spreadsheets/d/1rh7Z87A9u5608F-8zhiMShdRW_kxa41RX_NfZh2OqKk/edit?usp=drive_link)
+
+The spreadsheet contains the original checklists and bug reports created during the testing process.
 
 ## Tools
 

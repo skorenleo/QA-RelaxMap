@@ -24,21 +24,9 @@
 
 **1** Open the Register page https://relax-map-front-end.vercel.app/register
 
-**2** 
-
-**3** 
-
 **Steps to reproduce:** 
 
 **1** Check the copyright text in the footer.
-
-**2** 
-
-**3** 
-
-**4** 
-
-**5** 
 
 **Actual result:** 
 
@@ -48,7 +36,7 @@
 
 **The footer displays: "© 2026 Relax Map".** 
 
-**Attachments:** Screenshot 1.png
+**Attachments:** [Screenshot 1.png](https://drive.google.com/file/d/1S4QX4g_keAOWvEn5p5roWAKFv0uU1Vi1/view?usp=drive_link)
 
 **Additional info:** 
 
@@ -81,21 +69,11 @@
 
 **1** Open the Register page https://relax-map-front-end.vercel.app/register
 
-**2** 
-
-**3** 
-
 **Steps to reproduce:** 
 
 **1** Locate the "Sign Up" button.
 
 **2** Check the button appearance without hovering over it.
-
-**3** 
-
-**4** 
-
-**5** 
 
 **Actual result:** 
 
@@ -105,10 +83,7 @@
 
 **The button is displayed with a background color in the default state according to the UI Kit. The hover state color matches the design specification.** 
 
-**Attachments:** video1.mov
-
-**Additional info:** 
-
+**Attachments:** [video1.mov](https://drive.google.com/file/d/1tpz4iR20_s83pTMeHwMWLAv4vHzimqw1/view?usp=sharing)
 
 ---
 
@@ -136,21 +111,11 @@
 
 **1** Open the Register page https://relax-map-front-end.vercel.app/register
 
-**2** 
-
-**3** 
-
 **Steps to reproduce:** 
 
 **1** View the page without scrolling.
 
 **2** Check the copyright section at the bottom of the page.
-
-**3** 
-
-**4** 
-
-**5** 
 
 **Actual result:** 
 
@@ -160,12 +125,9 @@
 
 **The copyright section is visible within the initial viewport without scrolling, according to the Figma design.** 
 
-**Screenshot sk-003.png** 
+**[Screenshot sk-003.png](https://drive.google.com/file/d/1eQ_gPmAunJfuvNybb8Qxqct_B5eupBTg/view?usp=drive_link)**
 
-**Attachments:** video2.mov
-
-**Additional info:** 
-
+**Attachments:** [video2.mov](https://drive.google.com/file/d/1JUu7vYG3tPWOm9a-ZlwsIpepgtv2ir6b/view?usp=drive_link)
 
 ---
 
@@ -193,10 +155,6 @@
 
 **1** Open the Home page https://relax-map-front-end.vercel.app/
 
-**2** 
-
-**3** 
-
 **Steps to reproduce:** 
 
 **1** Scroll down to the footer.
@@ -204,10 +162,6 @@
 **2** Click the "Locations" link.
 
 **3** Check the destination route.
-
-**4** 
-
-**5** 
 
 **Actual result:** 
 
@@ -217,10 +171,7 @@
 
 **The footer link redirects to the /locations route.** 
 
-**Attachments:** sk-004(1).png, sk-004(2).png
-
-**Additional info:** 
-
+**Attachments:** [sk-004(1).png](https://drive.google.com/file/d/1gQJzy2dGXFAwf4srUHjqqpWNAMLnscRA/view?usp=drive_link), [sk-004(2).png](https://drive.google.com/file/d/1-Cc7NOEPSO3mlHjlripXgf_SXk3iFrvj/view?usp=drive_link)
 
 ---
 
@@ -248,21 +199,11 @@
 
 **1** Open the Login page https://relax-map-front-end.vercel.app/register
 
-**2** 
-
-**3** 
-
 **Steps to reproduce:** 
 
 **1** Enter valid credentials (e.g., email: skorenleo@gmail.com, password: 12345678).
 
 **2** Click the "Log In" button.
-
-**3** 
-
-**4** 
-
-**5** 
 
 **Actual result:** 
 
@@ -272,10 +213,7 @@
 
 **The user is redirected to their Profile page according to the requirements.** 
 
-**Attachments:** video3.mov
-
-**Additional info:** 
-
+**Attachments:** [video3.mov](https://drive.google.com/file/d/15zh0Yc4DyegupwfUoMS6u89ga9wAEtxI/view?usp=drive_link)
 
 ---
 
@@ -303,21 +241,9 @@
 
 **1** Open https://relax-map-front-end.vercel.app/.
 
-**2** 
-
-**3** 
-
 **Steps to reproduce:** 
 
 **1** Hover over the "Home" link in the header.
-
-**2** 
-
-**3** 
-
-**4** 
-
-**5** 
 
 **Actual result:** 
 
@@ -327,7 +253,7 @@
 
 **The underline hover effect is displayed according to the requirements.** 
 
-**Attachments:** sk-006.png
+**Attachments:** [sk-006.png](https://drive.google.com/file/d/1QDYjNxZPe-GKhhO3z7x4RD5QXLjFiSRN/view?usp=drive_link)
 
 **Additional info:** 
 
@@ -364,19 +290,9 @@
 
 **2** Open the burger menu.
 
-**3** 
-
 **Steps to reproduce:** 
 
 **1** Click any navigation link in the burger menu.
-
-**2** 
-
-**3** 
-
-**4** 
-
-**5** 
 
 **Actual result:** 
 
@@ -386,10 +302,7 @@
 
 **The user is navigated to the selected page, and the burger menu closes automatically.** 
 
-**Attachments:** video-sk-007.mov
-
-**Additional info:** 
-
+**Attachments:** [video-sk-007.mov](https://drive.google.com/file/d/1KXz6WWBeSlK8TxvJg_mO-QUsPdb0VR0J/view?usp=drive_link)
 
 ---
 
@@ -419,19 +332,9 @@
 
 **2** Open https://relax-map-front-end.vercel.app/
 
-**3** 
-
 **Steps to reproduce:** 
 
 **1** Click the "My Profile" link in the header.
-
-**2** 
-
-**3** 
-
-**4** 
-
-**5** 
 
 **Actual result:** 
 
@@ -441,10 +344,7 @@
 
 **The user is redirected to their Profile page at the /profile/[userId] route.** 
 
-**Attachments:** sk-008-01.png, sk-008-02.png
-
-**Additional info:** 
-
+**Attachments:** [sk-008-01.png](https://drive.google.com/file/d/11p8qBHE5ssjWSLGGJTFtmBMnhFni3FCN/view?usp=drive_link), [sk-008-02.png](https://drive.google.com/file/d/19yuyVy4rTZB7gjoKCJZPXqyj7-0R-Sfs/view?usp=drive_link)
 
 ---
 
@@ -472,21 +372,9 @@
 
 **1** Log in to the application using:<br><br>Email: koren@gmail.com<br>Password: 1q2w3e4r
 
-**2** 
-
-**3** 
-
 **Steps to reproduce:** 
 
 **1** Check the user's profile avatar displayed in the header.
-
-**2** 
-
-**3** 
-
-**4** 
-
-**5** 
 
 **Actual result:** 
 
@@ -496,10 +384,7 @@
 
 **A standard profile avatar placeholder is displayed.** 
 
-**Attachments:** sk-009.png
-
-**Additional info:** 
-
+**Attachments:** [sk-009.png](https://drive.google.com/file/d/1GouJCoKUeRcEvo-TgDpljqXmqj6xCNPG/view?usp=drive_link)
 
 ---
 
@@ -529,19 +414,11 @@
 
 **2** The user is not logged in.
 
-**3** 
-
 **Steps to reproduce:** 
 
 **1** Click the "Sign Up" link in the header.
 
 **2** Check the URL after navigation.
-
-**3** 
-
-**4** 
-
-**5** 
 
 **Actual result:** 
 
@@ -551,10 +428,7 @@
 
 **The user is redirected to the Registration page at the /register route.** 
 
-**Attachments:** sk-010.png
-
-**Additional info:** 
-
+**Attachments:** [sk-010.png](https://drive.google.com/file/d/1GNlV3gQxoX1XMdkwyVmS-IYNJj5i0lyS/view?usp=drive_link)
 
 ---
 
@@ -584,8 +458,6 @@
 
 **2** Locate "Lvivskyi Zatyshok" in the Popular Locations section.
 
-**3** 
-
 **Steps to reproduce:** 
 
 **1** Note the location rating displayed in the Popular Locations section.
@@ -593,10 +465,6 @@
 **2** Click the "View Location" button to open the Location Details page.
 
 **3** Compare the rating displayed on the Home page with the rating on the Location Details page.
-
-**4** 
-
-**5** 
 
 **Actual result:** 
 
@@ -606,10 +474,7 @@
 
 **The rating displayed in the Popular Locations section matches the rating displayed on the corresponding Location Details page.** 
 
-**Attachments:** video-sk-013.mov
-
-**Additional info:** 
-
+**Attachments:** [video-sk-013.mov](https://drive.google.com/file/d/1jQcziwz9Ia_5NyJg1nH9Xg05NgwoFO3m/view?usp=drive_link)
 
 ---
 
@@ -639,19 +504,9 @@
 
 **2** Locate a review card with a long review text.
 
-**3** 
-
 **Steps to reproduce:** 
 
 **1** Check how the review text is displayed.
-
-**2** 
-
-**3** 
-
-**4** 
-
-**5** 
 
 **Actual result:** 
 
@@ -661,10 +516,7 @@
 
 **The long review text is truncated with an ellipsis (...), and the review card maintains the size specified in the design.** 
 
-**Attachments:** sk-014.png
-
-**Additional info:** 
-
+**Attachments:** [sk-014.png](https://drive.google.com/file/d/12PFBQXPLz6cC7WX9EQ_3HZ4n-g_zIHJB/view?usp=drive_link)
 
 ---
 
@@ -692,21 +544,11 @@
 
 **1** Open https://relax-map-front-end.vercel.app/
 
-**2** 
-
-**3** 
-
 **Steps to reproduce:** 
 
 **1** Enter "Пляж" in the search field.
 
 **2** Click the "Find a Place" button.
-
-**3** 
-
-**4** 
-
-**5** 
 
 **Actual result:** 
 
@@ -716,10 +558,7 @@
 
 **The /locations page displays locations matching the entered search query.** 
 
-**Attachments:** video-sk-015.mov
-
-**Additional info:** 
-
+**Attachments:** [video-sk-015.mov](https://drive.google.com/file/d/1f-VTAj4T542lzvyM5vzKqtyN-DNdG9g_/view?usp=drive_link)
 
 ---
 
@@ -749,8 +588,6 @@
 
 **2** Open https://relax-map-front-end.vercel.app/locations/68d568270e6bcc357e98343d
 
-**3** 
-
 **Steps to reproduce:** 
 
 **1** Click the "Add Review" button.
@@ -758,10 +595,6 @@
 **2** Enter a single character in the review text field.
 
 **3** Submit the review.
-
-**4** 
-
-**5** 
 
 **Actual result:** 
 
@@ -771,6 +604,4 @@
 
 **The system successfully submits the review when the description field contains one character, according to the requirements.** 
 
-**Attachments:** sk-017.png
-
-**Additional info:** 
+**Attachments:** [sk-017.png](https://drive.google.com/file/d/1sybn9ojDbUB3YY1dZ-xhcprRxV7xyWf6/view?usp=drive_link)
